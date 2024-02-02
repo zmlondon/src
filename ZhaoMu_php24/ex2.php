@@ -1,8 +1,9 @@
 <?php
-$title="ex2" ;
-include 'header.php' ; ?>
+$title="Ex2" ;
+include ('header.php'); 
+?>
 <main>
     <p> home page</p>
 </main>
 
-<?php include 'footer.php' ; ?>
+<?php include('footer.php');?>

@@ -17,7 +17,7 @@
     <title><?php echo $title; ?></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="site.css" />
+        <link rel="stylesheet" href="site.css" />
 </head>
 
 <body>
@@ -32,6 +32,8 @@
                     <ul class="navbar-nav d-flex justify-content-between w-100">
                         <li class="nav-item fs-4"><a href="ex1.php" class="nav-link">Ex1</a></li>
                         <li class="nav-item fs-4"><a href="ex2.php" class="nav-link">Ex2</a></li>
+                        <li class="nav-item fs-4"><a href="ex3.php" class="nav-link">Ex3</a></li>
+                        <li class="nav-item fs-4"><a href="ex4.php" class="nav-link">Ex4</a></li>
                     </ul>
                 </nav>
             </div>

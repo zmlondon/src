@@ -2,6 +2,7 @@
 $title="Ex1";
 include('header.php');?>
 <body>
+    <main>
     <h3>3.1 Write PHP code to output the following message: 
         Hello world! My name is "David"
     </h3>
@@ -52,6 +53,7 @@ include('header.php');?>
 <h3>Take a screenshot that confirms your development environment setup and include 
 it as an image in the "ex1.php" file.h3>
 <img src="images/24.png" alt="web development environment">
+</main>
 <?php include('footer.php');?>
 </body>
 </html>

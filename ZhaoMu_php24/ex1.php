@@ -1,5 +1,5 @@
 <?php 
-$title="Ex1";
+$title="Ex1-test";
 include('header.php');?>
 <body>
     <main>
